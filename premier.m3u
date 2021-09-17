@@ -1,0 +1,1672 @@
+#EXTM3U
+#EXTINF:0,NBC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/170
+#EXTINF:0,*CBS SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/169
+#EXTINF:0,*TSN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/138
+#EXTINF:0,*TSN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/139
+#EXTINF:0,*TSN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/140
+#EXTINF:0,*TSN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/141
+#EXTINF:0,*TSN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/142
+#EXTINF:0,*ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/143
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/144
+#EXTINF:0,ESPN ACC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/86092
+#EXTINF:0,ESPN NEWS HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59038
+#EXTINF:0,BIG 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3950
+#EXTINF:0,FOX COLLEGE ATLANTIC
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59885
+#EXTINF:0,FOX COLLEGE PACIFIC
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59886
+#EXTINF:0,*FOX SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/145
+#EXTINF:0,*FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/146
+#EXTINF:0,PAC 12 ARIZONA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9691
+#EXTINF:0,PAC 12 BAY AREA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9690
+#EXTINF:0,PAC 12 LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9692
+#EXTINF:0,PAC 12 MOUNTAIN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9689
+#EXTINF:0,PAC 12 NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9687
+#EXTINF:0,PAC 12 OREGON
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9688
+#EXTINF:0,*SPORTSNET ONT HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/148
+#EXTINF:0,*SPORTSNET ONE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/149
+#EXTINF:0,SPORTSNET WEST HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8890
+#EXTINF:0,*SPORTSNET PACIFIC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2434
+#EXTINF:0,*SPORTSNET 360 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/147
+#EXTINF:0,*SPORTSNET WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/150
+#EXTINF:0,*NFL NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/157
+#EXTINF:0,*NHL NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/156
+#EXTINF:0,LEAFS TV
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59039
+#EXTINF:0,*NBA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/165
+#EXTINF:0,MSG HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10052
+#EXTINF:0,YES NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10034
+#EXTINF:0,MLB NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2193
+#EXTINF:0,GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/166
+#EXTINF:0,WWE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/168
+#EXTINF:0,NESN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96372
+#EXTINF:0,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/167
+#EXTINF:0,MAVTV
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/68854
+#EXTINF:0,WILLOW CRICKET HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/198
+#EXTINF:0,WILLOW XTRA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9630
+#EXTINF:0,FIGHT - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71284
+#EXTINF:0,*BEIN SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/171
+#EXTINF:0,TVG - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59036
+#EXTINF:0,TVG 2 - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/81931
+#EXTINF:0,KANAL 75 INT
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/80388
+#EXTINF:0,SIS TWO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/80386
+#EXTINF:0,RACING.COM (AU)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/80783
+#EXTINF:0,WFN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/26231
+#EXTINF:0,OUTDOOR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9049
+#EXTINF:0,SPORTSMAN NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9050
+#EXTINF:0,BT SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/225
+#EXTINF:0,BT SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/226
+#EXTINF:0,BT SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/232
+#EXTINF:0,BT SPORTS ESPN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/233
+#EXTINF:0,NBC HD EAST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7
+#EXTINF:0,CBS HD EAST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8
+#EXTINF:0,ABC HD EAST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10
+#EXTINF:0,FOX HD EAST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9
+#EXTINF:0,*CP24 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11
+#EXTINF:0,CP24 (H264)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71459
+#EXTINF:0,OMNI 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/12
+#EXTINF:0,OMNI 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/13
+#EXTINF:0,CITY TV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/14
+#EXTINF:0,*GLOBAL EAST HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15
+#EXTINF:0,*CTV EAST HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/16
+#EXTINF:0,CTV NORTH
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/17
+#EXTINF:0,CTV KITCHNER - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71277
+#EXTINF:0,CBC EAST HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/18
+#EXTINF:0,CBC WINDSOR - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71279
+#EXTINF:0,CBC HALIFAX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4075
+#EXTINF:0,CTV HALIFAX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4074
+#EXTINF:0,CBC ATLANTIC - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71278
+#EXTINF:0,CBC CHARLOTTETOWN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/72691
+#EXTINF:0,CTV MONCTON - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71282
+#EXTINF:0,CTV NB - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71283
+#EXTINF:0,CTV2 ATLANTIC
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71425
+#EXTINF:0,CTV2 LONDON
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/88493
+#EXTINF:0,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" group-title="ENGLISH",NTV (NEWFOUNDLAND) - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/68073
+#EXTINF:0,CBC OTTAWA - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/45499
+#EXTINF:0,CTV OTTAWA - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/65625
+#EXTINF:0,CTV 2 OTTAWA - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59130
+#EXTINF:0,CBC WINNIPEG - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46716
+#EXTINF:0,CTV WINNIPEG
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/63327
+#EXTINF:0,CITY WINNIPEG
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71424
+#EXTINF:0,CBC EDMONTON - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46715
+#EXTINF:0,CTV EDMONTON - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/65628
+#EXTINF:0,GLOBAL EDMONTON - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/65627
+#EXTINF:0,NBC HD WEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/303
+#EXTINF:0,ABC HD WEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/306
+#EXTINF:0,CBS HD WEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/304
+#EXTINF:0,FOX HD WEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/305
+#EXTINF:0,CBC CALGARY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7339
+#EXTINF:0,CTV CALGARY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7338
+#EXTINF:0,CITY CALGARY - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71280
+#EXTINF:0,GLOBAL LETHBRIDGE - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71285
+#EXTINF:0,OMNI CALGARY - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71286
+#EXTINF:0,OMNI PRAIRIES - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71288
+#EXTINF:0,BC1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/307
+#EXTINF:0,GLOBAL BC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/308
+#EXTINF:0,CTV VANCOUVER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/310
+#EXTINF:0,CTV 2 VANCOUVER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2418
+#EXTINF:0,CITY VANCOUVER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/311
+#EXTINF:0,CBC VANCOUVER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/309
+#EXTINF:0,OMNI BC - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71287
+#EXTINF:0,CHEK VANCOUVER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2419
+#EXTINF:0,CBC HD (MTL)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15074
+#EXTINF:0,CTV HD (MTL)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2398
+#EXTINF:0,CITY HD (MTL)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15073
+#EXTINF:0,GLOBAL HD (MTL)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2397
+#EXTINF:0,*USA NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/312
+#EXTINF:0,GSN HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/12769
+#EXTINF:0,TV LAND HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/313
+#EXTINF:0,DEJAVIEW  - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/48517
+#EXTINF:0,BEACON TV - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/56247
+#EXTINF:0,METV HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15072
+#EXTINF:0,BBC FIRST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111889
+#EXTINF:0,YES TV
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6962
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/314
+#EXTINF:0,FXX HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/315
+#EXTINF:0,TRU TV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/340
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/316
+#EXTINF:0,*TBS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/317
+#EXTINF:0,PARAMOUNT NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/318
+#EXTINF:0,*DISCOVERY HD (CDN)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/319
+#EXTINF:0,DISCOVERY HD (USA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/56250
+#EXTINF:0,DISCOVERY SCIENCE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/320
+#EXTINF:0,SMITHSONIAN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3951
+#EXTINF:0,*HALLMARK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/321
+#EXTINF:0,*HALLMARK MOVIES MYSTERY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4599
+#EXTINF:0,HALLMARK DRAMA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83349
+#EXTINF:0,OXYGEN HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59037
+#EXTINF:0,ION HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59033
+#EXTINF:0,*HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/322
+#EXTINF:0,*ID HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/324
+#EXTINF:0,LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/325
+#EXTINF:0,*LIFETIME MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/326
+#EXTINF:0,IFC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/327
+#EXTINF:0,POP HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82603
+#EXTINF:0,*TLC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/328
+#EXTINF:0,DIY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/329
+#EXTINF:0,FYI HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/42684
+#EXTINF:0,OLN - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67103
+#EXTINF:0,LOVE NATURE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1258
+#EXTINF:0,MAKEFUL - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67102
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/330
+#EXTINF:0,*NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/331
+#EXTINF:0,ANIMAL PLANET HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/332
+#EXTINF:0,COOKING CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6108
+#EXTINF:0,FOOD HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/333
+#EXTINF:0,FOOD HD (USA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/80508
+#EXTINF:0,GUSTO - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67101
+#EXTINF:0,APTN - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67104
+#EXTINF:0,OUT TV - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67116
+#EXTINF:0,GINX (CDN) - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67115
+#EXTINF:0,MOTOR TREND HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/367
+#EXTINF:0,VICELAND HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/323
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/334
+#EXTINF:0,SUNDANCE HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10039
+#EXTINF:0,*HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/335
+#EXTINF:0,HGTV HD (CDN)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/42685
+#EXTINF:0,COTTAGE TV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/42394
+#EXTINF:0,PEACHTREE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/337
+#EXTINF:0,WGN HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9163
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/338
+#EXTINF:0,SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/339
+#EXTINF:0,CTV-SCIFI HD (SPACE)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8110
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/341
+#EXTINF:0,WE TV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/342
+#EXTINF:0,SLICE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/343
+#EXTINF:0,W NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/344
+#EXTINF:0,SHOWCASE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/346
+#EXTINF:0,*A&E HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/347
+#EXTINF:0,OWN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/348
+#EXTINF:0,QVC - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67097
+#EXTINF:0,TSC - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67098
+#EXTINF:0,TRAVEL HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/349
+#EXTINF:0,DESTINATION AMERICA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7482
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/350
+#EXTINF:0,MTV 2 HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69011
+#EXTINF:0,BET HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/351
+#EXTINF:0,BET HER HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69008
+#EXTINF:0,REVOLT HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10042
+#EXTINF:0,CMT HD  - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/12266
+#EXTINF:0,MUCH MUSIC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4141
+#EXTINF:0,BRAVO HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/353
+#EXTINF:0,*VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/354
+#EXTINF:0,VH1 (US) - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/70262
+#EXTINF:0,VISION HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/355
+#EXTINF:0,PBS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/356
+#EXTINF:0,CHCH HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/358
+#EXTINF:0,CW11 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/359
+#EXTINF:0,CW11 HD WEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2421
+#EXTINF:0,BBC AMERICA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/357
+#EXTINF:0,*CNN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/360
+#EXTINF:0,CBC NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/361
+#EXTINF:0,CTV NEWS NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2423
+#EXTINF:0,HLN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/362
+#EXTINF:0,*FOX NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/363
+#EXTINF:0,ONE AMERICA NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107408
+#EXTINF:0,NEWSMAX HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107409
+#EXTINF:0,CBS NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3078
+#EXTINF:0,ABC NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3077
+#EXTINF:0,CNBC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/364
+#EXTINF:0,TRT WORLD HD (TR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/27136
+#EXTINF:0,FOX NEWS BUSINESS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4600
+#EXTINF:0,BLOOMBERG HD (NA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1662
+#EXTINF:0,BNN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/366
+#EXTINF:0,MSNBC HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/365
+#EXTINF:0,DW NEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67410
+#EXTINF:0,EURONEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67409
+#EXTINF:0,WEATHER CANADA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3079
+#EXTINF:0,WEATHER USA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3080
+#EXTINF:0,ALJAZEERA ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1661
+#EXTINF:0,FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4796
+#EXTINF:0,CCTV NEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3965
+#EXTINF:0,BBC WORLD NEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9546
+#EXTINF:0,RTE NEWS NOW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7191
+#EXTINF:0,RT NEWS ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/512
+#EXTINF:0,RT DOCUMENTARY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/3075
+#EXTINF:0,COVID-19 UPDATE 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90825
+#EXTINF:0,COVID-19 UPDATE 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90826
+#EXTINF:0,TCM HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/368
+#EXTINF:0,MOVIE TIME HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/369
+#EXTINF:0,ADULT SWIM HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/370
+#EXTINF:0,FXM HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/56246
+#EXTINF:0,PPV MOVIES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8784
+#EXTINF:0,SCIENCE FICTION NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8887
+#EXTINF:0,007 4 LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7493
+#EXTINF:0,80'S ACTION HITZ HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7497
+#EXTINF:0,80'S COMEDY HITZ HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7496
+#EXTINF:0,80'S DRAMA HITZ HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7495
+#EXTINF:0,80'S HORROR HITZ HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7494
+#EXTINF:0,CRAVE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9505
+#EXTINF:0,CRAVE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9506
+#EXTINF:0,CRAVE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9507
+#EXTINF:0,HBO 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/26321
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/26322
+#EXTINF:0,HBO EAST HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/371
+#EXTINF:0,HBO COMEDY HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/373
+#EXTINF:0,HBO FAMILY HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4829
+#EXTINF:0,HBO SIGNATURE HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/372
+#EXTINF:0,HBO ZONE HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4828
+#EXTINF:0,CINEMAX EAST HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/380
+#EXTINF:0,ACTION MAX HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/383
+#EXTINF:0,MOREMAX HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/381
+#EXTINF:0,THRILLER MAX HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/80332
+#EXTINF:0,5STAR MAX HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/382
+#EXTINF:0,SHOWTIME EAST HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11361
+#EXTINF:0,SHOWTIME 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11362
+#EXTINF:0,SHOWTIME WOMEN HD (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11359
+#EXTINF:0,SHOWTIME EXTREME HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11358
+#EXTINF:0,SHOWTIME NEXT HD (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/11360
+#EXTINF:0,SUPER CHANNEL FUSE - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71289
+#EXTINF:0,VAULT (CDN) - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/67114
+#EXTINF:0,STARZ HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/374
+#EXTINF:0,STARZ EDGE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/377
+#EXTINF:0,STARZ COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/376
+#EXTINF:0,STARZ BLACK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/378
+#EXTINF:0,ENCORE WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/379
+#EXTINF:0,GRIT HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/109192
+#EXTINF:0,EPIX EAST HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69016
+#EXTINF:0,EPIX 2 HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69014
+#EXTINF:0,EPIX DRIVE IN'S HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69012
+#EXTINF:0,EPIX HITS HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/69013
+#EXTINF:0,TRUE MOVIES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1786
+#EXTINF:0,SKY MOVIES ACTION & ADVENTURE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1738
+#EXTINF:0,SKY MOVIES COMEDY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1737
+#EXTINF:0,SKY MOVIES DRAMA & ROMANCE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1779
+#EXTINF:0,SKY MOVIES PREMIERE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1733
+#EXTINF:0,SKY MOVIES THRILLER
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1742
+#EXTINF:0,SKY NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1755
+#EXTINF:0,SKY NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1756
+#EXTINF:0,SKY ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1760
+#EXTINF:0,SKY TCM
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1785
+#EXTINF:0,SKY TLC
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1790
+#EXTINF:0,SKY HISTORY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1758
+#EXTINF:0,SKY H2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1754
+#EXTINF:0,SKY REALLY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1757
+#EXTINF:0,SKY ARTS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2196
+#EXTINF:0,SKY QUEST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1768
+#EXTINF:0,SKY TRU TV
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1723
+#EXTINF:0,SKY TBN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1722
+#EXTINF:0,SKY FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1788
+#EXTINF:0,SKY LIVING
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1739
+#EXTINF:0,SKY HOME
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1718
+#EXTINF:0,SKY FOX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1741
+#EXTINF:0,SKY EDEN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1789
+#EXTINF:0,SKY DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1764
+#EXTINF:0,SKY DISCOVERY HISTORY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1765
+#EXTINF:0,SKY DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1766
+#EXTINF:0,SKY DISCOVERY SHED
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1761
+#EXTINF:0,SKY DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1767
+#EXTINF:0,SKY DAVE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1775
+#EXTINF:0,SKY COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1748
+#EXTINF:0,SKY BBC 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1783
+#EXTINF:0,SKY BBC 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1784
+#EXTINF:0,SKY BBC 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4848
+#EXTINF:0,SKY ITV 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4865
+#EXTINF:0,SKY ITV 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4864
+#EXTINF:0,SKY ITV 3
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4863
+#EXTINF:0,SKY ITV 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4862
+#EXTINF:0,SKY ITV BE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4860
+#EXTINF:0,SKY RTE 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4859
+#EXTINF:0,SKY RTE 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4858
+#EXTINF:0,SKY ATLANTIC
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1740
+#EXTINF:0,SKY ALIBI
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1774
+#EXTINF:0,SKY 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1749
+#EXTINF:0,CBS ACTION
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7184
+#EXTINF:0,CBS DRAMA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7186
+#EXTINF:0,CBS REALITY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7187
+#EXTINF:0,SKY 5 STAR
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7181
+#EXTINF:0,SKY CRIME AND INVESTIGATION
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7190
+#EXTINF:0,SKY E4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7178
+#EXTINF:0,SKY FILM4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7189
+#EXTINF:0,SKY HORROR
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7179
+#EXTINF:0,SKY E!
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7192
+#EXTINF:0,SKY SYFY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7174
+#EXTINF:0,SKY NEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7173
+#EXTINF:0,SKY CHANNEL 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7175
+#EXTINF:0,SKY CHANNEL 5
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7176
+#EXTINF:0,SKY MORE4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7177
+#EXTINF:0,SKY SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1771
+#EXTINF:0,TVO HD (NA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/391
+#EXTINF:0,PBS KIDS - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15071
+#EXTINF:0,YTV HD (NA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/390
+#EXTINF:0,DISCOVERY FAMILY HD - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59034
+#EXTINF:0,DISNEY HD EAST
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/392
+#EXTINF:0,ABC SPARK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4063
+#EXTINF:0,TREEHOUSE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/393
+#EXTINF:0,MAGIC SCHOOL BUS 24x7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8092
+#EXTINF:0,BABY EINSTEIN 24X7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8089
+#EXTINF:0,PEPPA PIG 24x7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9737
+#EXTINF:0,PAW PATROL 24x7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9736
+#EXTINF:0,SONIC BOOM 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/42215
+#EXTINF:0,PJ MASK 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/42216
+#EXTINF:0,SUPER WINGS 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/38759
+#EXTINF:0,TROLLHUNTERS 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/43224
+#EXTINF:0,TRANSFORMER - RETRO 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/65803
+#EXTINF:0,NICKELODEON HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/394
+#EXTINF:0,CARTOON NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/395
+#EXTINF:0,FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/396
+#EXTINF:0,DISNEY XD HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/397
+#EXTINF:0,DISNEY ALL DAY 24X7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7804
+#EXTINF:0,DUCK TALES 24X7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7498
+#EXTINF:0,SPIDERMAN 24x7 (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9976
+#EXTINF:0,BATMAN THE ANIMATED SERIES 24x7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7499
+#EXTINF:0,STAR WARS CLONE WARS 24X7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/7835
+#EXTINF:0,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" group-title="CHILDREN" - STAR WARS REBELS 24x7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8090
+#EXTINF:0,TELETOON HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2422
+#EXTINF:0,CANAL D (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9633
+#EXTINF:0,CANAL V (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9634
+#EXTINF:0,CANAL VIE (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/59086
+#EXTINF:0,CASA HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46738
+#EXTINF:0,CINEPOP HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46739
+#EXTINF:0,EVASION HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46740
+#EXTINF:0,EXPLORA HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46741
+#EXTINF:0,METEOMEDIA HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46742
+#EXTINF:0,MOI & CIE (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/60034
+#EXTINF:0,TELETOON HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46743
+#EXTINF:0,DISNEY (CA) (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/64054
+#EXTINF:0,TF0 HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46744
+#EXTINF:0,UNIS HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46745
+#EXTINF:0,ZTELE (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2411
+#EXTINF:0,LCN (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9635
+#EXTINF:0,TVA (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2395
+#EXTINF:0,CANAL SAVOIR (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15075
+#EXTINF:0,ICI (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/5919
+#EXTINF:0,ICI MULTICULTURE (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/15076
+#EXTINF:0,RDS (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2404
+#EXTINF:0,RDS 2 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2405
+#EXTINF:0,TVA 1 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2406
+#EXTINF:0,TVA 2 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2407
+#EXTINF:0,RDI (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2396
+#EXTINF:0,SRC (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2399
+#EXTINF:0,CBC (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2402
+#EXTINF:0,ARTV (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2403
+#EXTINF:0,CGTN (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96141
+#EXTINF:0,ADDIK (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2412
+#EXTINF:0,SERIES  (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2409
+#EXTINF:0,ELLE FICTIONS (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96143
+#EXTINF:0,MAX TV (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96145
+#EXTINF:0,NATYF HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96146
+#EXTINF:0,ZESTE HD (FR) - NOUVEAU
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/46746
+#EXTINF:0,YOOPA (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2394
+#EXTINF:0,TV5 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2417
+#EXTINF:0,TV5 MONDE HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2420
+#EXTINF:0,TELE QUEBEC (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2400
+#EXTINF:0,SUPER ECRAN 1 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2414
+#EXTINF:0,SUPER ECRAN 2 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2415
+#EXTINF:0,SUPER ECRAN 3 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2416
+#EXTINF:0,SUPER ECRAN 4 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/25196
+#EXTINF:0,FRISSONTS TV (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96144
+#EXTINF:0,PRISE2 (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2413
+#EXTINF:0,MUSIQUE  (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2401
+#EXTINF:0,HISTORIA (FR)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2410
+#EXTINF:0,PALMARES ADISQ (RADIO)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96147
+#EXTINF:0,CLASSICA (RADIO)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96148
+#EXTINF:0,HITS! (RADIO)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96149
+#EXTINF:0,PLAYBOY TV (NA)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/300
+#EXTINF:0,HUSTLER HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/302
+#EXTINF:0,X ART
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10658
+#EXTINF:0,NAUGHTY AMERICA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10657
+#EXTINF:0,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10656
+#EXTINF:0,BRAZZERS LIVE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10660
+#EXTINF:0,TEN - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9165
+#EXTINF:0,XTSY - (NEW)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9164
+#EXTINF:0,TINY4K
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8889
+#EXTINF:0,CANDY - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90820
+#EXTINF:0,O-LA-LA - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90821
+#EXTINF:0,FAP TV TEENS - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90822
+#EXTINF:0,OH-AH - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90823
+#EXTINF:0,SESTO SENSO - NEW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/90824
+#EXTINF:0,EVIL ANGEL 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/10659
+#EXTINF:0,BANG BROS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/8783
+#EXTINF:0,IPZ
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6610
+#EXTINF:0,JAV 1 UNCENSORED
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6612
+#EXTINF:0,JAV 2 UNCENSORED
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6613
+#EXTINF:0,JAV 3 UNCENSORED
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6614
+#EXTINF:0,TOKYO HOT
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6572
+#EXTINF:0,WANZ
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6611
+#EXTINF:0,TUSHY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6615
+#EXTINF:0,LEGAL PORNO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6573
+#EXTINF:0,PENTHOUSE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/71118
+#EXTINF:0,1 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6697
+#EXTINF:0,2 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6696
+#EXTINF:0,3 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6695
+#EXTINF:0,4 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6694
+#EXTINF:0,5 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6693
+#EXTINF:0,6 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6692
+#EXTINF:0,7 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6687
+#EXTINF:0,8 HD XXX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/6686
+#EXTINF:0,BEIN SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4814
+#EXTINF:0,BEIN SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4813
+#EXTINF:0,BEIN SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4812
+#EXTINF:0,BEIN SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4811
+#EXTINF:0,BEIN SPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4810
+#EXTINF:0,BEIN SPORTS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4809
+#EXTINF:0,BEIN SPORTS 7 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4808
+#EXTINF:0,BEIN SPORTS 8 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4807
+#EXTINF:0,BEIN SPORTS 9 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4806
+#EXTINF:0,BEIN SPORTS 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/4805
+#EXTINF:0,BEIN SPORTS 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/74480
+#EXTINF:0,BEIN SPORTS 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/74479
+#EXTINF:0,BEIN SPORTS 13 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/74478
+#EXTINF:0,SKY AT THE RACES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/2197
+#EXTINF:0,SKY BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/9626
+#EXTINF:0,SKY BOX NATION
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/209
+#EXTINF:0,SKY CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1773
+#EXTINF:0,SKY DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1745
+#EXTINF:0,SKY DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1746
+#EXTINF:0,SKY DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1747
+#EXTINF:0,SKY MOVIES FAMILY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1736
+#EXTINF:0,SKY MOVIES DISNEY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1743
+#EXTINF:0,SKY NICK JR
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1716
+#EXTINF:0,SKY NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/1729
+#EXTINF:0,SKY SPORTS ACTION
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/206
+#EXTINF:0,SKY SPORTS ARENA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/207
+#EXTINF:0,SKY SPORTS CRICKET
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/205
+#EXTINF:0,SKY SPORTS F1 HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/210
+#EXTINF:0,SKY SPORTS MAIN EVENT
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/204
+#EXTINF:0,SKY SPORTS MIX
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/194
+#EXTINF:0,SKY SPORTS NEWS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/203
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/208
+#EXTINF:0,MLB NET HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96564
+#EXTINF:0,MLB STRIKE ZONE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96565
+#EXTINF:0,SPECTRUM SPORTSNET LA HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96567
+#EXTINF:0,MLB 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96568
+#EXTINF:0,MLB 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96569
+#EXTINF:0,MLB 3
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96570
+#EXTINF:0,MLB 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96571
+#EXTINF:0,MLB 5
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/96572
+#EXTINF:0,MLB 6
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111473
+#EXTINF:0,MLB 7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111474
+#EXTINF:0,MLB 8
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111475
+#EXTINF:0,MLB 9
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111476
+#EXTINF:0,MLB 10
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111477
+#EXTINF:0,MLB 11
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111478
+#EXTINF:0,MLB 12
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111479
+#EXTINF:0,MLB 13
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/111500
+#EXTINF:0,UNIVISION WUVG-ATLANTA
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82378
+#EXTINF:0,UNIVISION WQHS-CLEVELAND
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82379
+#EXTINF:0,UNIVISION WLTV-FORT LAUDERDALE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82380
+#EXTINF:0,UNIVISION WGBO-CHICAGO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82381
+#EXTINF:0,UNIVISION KXLN-HOUSTON
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82382
+#EXTINF:0,UNIVISION KUVN-DALLAS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82383
+#EXTINF:0,UNIVISION KMEX-LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82384
+#EXTINF:0,UNIVISION KFTV-FRESNO
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82385
+#EXTINF:0,UNIVISION KAKW-AUSTIN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82386
+#EXTINF:0,NFL NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105005
+#EXTINF:0,REDZONE HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105006
+#EXTINF:0,NFL 1 SUPER BOWL LV (CA) 02/07 6:30pm ET
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105007
+#EXTINF:0,NFL 2 SUPER BOWL LV (US) 02/07 6:30pm ET
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105008
+#EXTINF:0,NFL 3
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105009
+#EXTINF:0,NFL 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105010
+#EXTINF:0,NFL 5
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105011
+#EXTINF:0,NFL 6
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105012
+#EXTINF:0,NFL 7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105013
+#EXTINF:0,NFL 8
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105014
+#EXTINF:0,NFL 9
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105015
+#EXTINF:0,NFL 10
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105016
+#EXTINF:0,NFL 11
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105017
+#EXTINF:0,NFL 12
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105018
+#EXTINF:0,NFL 13
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/105019
+#EXTINF:0,NFL FILMS PRESENT (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82794
+#EXTINF:0,NFL MIC'D UP (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82793
+#EXTINF:0,NFL SUPERBOWL (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82792
+#EXTINF:0,NFL THROWBACK (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82791
+#EXTINF:0,NFL TOP 10 (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82790
+#EXTINF:0,NFL TOP 100 GOAT (24X7)
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/82789
+#EXTINF:0,NBA NET HD
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107576
+#EXTINF:0,NBA 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107577
+#EXTINF:0,NBA 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107578
+#EXTINF:0,NBA 3
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107581
+#EXTINF:0,NBA 4 
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83334
+#EXTINF:0,NBA 5
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83335
+#EXTINF:0,NBA 6
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83336
+#EXTINF:0,NBA 7 
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83337
+#EXTINF:0,NBA 8
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83338
+#EXTINF:0,NBA 9
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83339
+#EXTINF:0,NBA 11
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83341
+#EXTINF:0,NBA 10 
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/83340
+#EXTINF:0,NBA 12
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107592
+#EXTINF:0,NBA 13
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/107593
+#EXTINF:0,NHL 1
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108620
+#EXTINF:0,NHL 2
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108621
+#EXTINF:0,NHL 3
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108625
+#EXTINF:0,NHL 4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108626
+#EXTINF:0,NHL 5
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108627
+#EXTINF:0,NHL 6
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108628
+#EXTINF:0,NHL 7
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108629
+#EXTINF:0,NHL 8
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108631
+#EXTINF:0,NHL 9
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108632
+#EXTINF:0,NHL 10
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108633
+#EXTINF:0,NHL 11
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108635
+#EXTINF:0,NHL 12
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108636
+#EXTINF:0,NHL 13
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108634
+#EXTINF:0,NHL 14
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/thibodeau/Thibodeau2021/108638
+#EXTINF:0,ADULTAUDITIONS.E327.EVE.FIRST.TIME.SWALLOW
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91796.mp4
+#EXTINF:0,ADULTAUDITIONS.E328.LEYLAS.DOUBLE.BLOWJOB.AUDITION
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91797.mp4
+#EXTINF:0,BABES.ABELLA.DANGER.BELLA.OF.THE.BALL
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91798.mp4
+#EXTINF:0,BFFS.JEWELZ.BLU.AND.EMILY.WILLIS.LICK.IT.OFF.INTERNAL
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91799.mp4
+#EXTINF:0,LUBED.20.06.16.ELIZA.IBARRA.WET.AND.PINK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91800.mp4
+#EXTINF:0,MONSTERSOFCOCK.GIANNA.DIOR.AND.KIRA.PEREZ
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91801.mp4
+#EXTINF:0,MYPERVYFAMILY.ANASTASIA.KNIGHT
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91802.mp4
+#EXTINF:0,SHAREMYBF.NADIA.JAY.AND.LALA.IVEY.GIRLFRIEND.MEETS.SIDE.CHICK
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91803.mp4
+#EXTINF:0,STAYHOMEPOV.20.05.04.BABY.NICOLS.BREAKING.ROUTINE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91804.mp4
+#EXTINF:0,STAYHOMEPOV.20.05.17.VALENTINA.JEWELS.PRANKSTERS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91805.mp4
+#EXTINF:0,STAYHOMEPOV.20.05.24.KYLIE.ROCKET.WORKING.FROM.HOME.mp4
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91806.mp4
+#EXTINF:0,STAYHOMEPOV.20.06.07.LAYLA.LOVE.PARANOID
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91807.mp4
+#EXTINF:0,STAYHOMEPOV.DIANA.GRACE.CLOSE.QUARTERS
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91808.mp4
+#EXTINF:0,STAYHOMEPOV.ELIZA.EVES.QUARANTINED.IN.COLLEGE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91809.mp4
+#EXTINF:0,TUSHY.KAISA.NORD.AND.LANA.ROY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91810.mp4
+#EXTINF:0,WAKEUPNFUCK.E308.LUCETTE.NICE
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91811.mp4
+#EXTINF:0,WOODMANCASTINGX.16.08.25.KAYLA.KAYDEN
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91812.mp4
+#EXTINF:3411,WOODMANCASTINGX.TYNA.SHY
+#EXTVLCOPT:network-caching=1000
+http://ciao.ok2.se:80/movie/thibodeau/Thibodeau2021/91813.mp4
